@@ -152,4 +152,6 @@ class SnakeBit():
             self.direction = self.RIGHT
 
 snake = SnakeBit()
+
+
 snake.startGame()
